@@ -15,7 +15,7 @@ body {
 }
 
 .navbar {
-  background: #ebebeb;
+  background:linear-gradient(to right, #bcbcbc, #6d6d6d);
   padding: 0%;
 }
 
@@ -46,7 +46,7 @@ body {
 
 /* BANNER */
 #banner {
-  background: linear-gradient(to right, #bcbcbc, #6d6d6d);
+  background:linear-gradient(to right, #87e7ff, #96d4d4);
   color: #fff;
   padding-top: 5%;
   overflow: auto;
